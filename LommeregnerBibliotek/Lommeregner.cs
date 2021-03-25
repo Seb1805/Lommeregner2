@@ -13,8 +13,10 @@ namespace LommeregnerBibliotek
         //Constructor der opretter en streawriter
         public Lommeregner()
         {
-            //Opretter streamwriteren
+            //Opretter streamwriteren - File.CreateText laver en ny tekstfil, hvis filen allerede eksiterer åbner den filen
+            //og overskriver indholdet
             StreamWriter logFil = File.CreateText("lommeregnerlog.json");
+            //????
             logFil.AutoFlush = true;
             writer = new JsonTextWriter(logFil);
             //Aktiverer indent på child objekter
