@@ -42,7 +42,7 @@ namespace Lommeregner2
                     input1 = Console.ReadLine();
                 }
 
-                //Spørg brugeren efter en operator!
+                //Spørg brugeren efter en operator
                 Console.WriteLine("Vælg en operator fra listen:");
                 Console.WriteLine("\tp - Plus");
                 Console.WriteLine("\tm - Minus");

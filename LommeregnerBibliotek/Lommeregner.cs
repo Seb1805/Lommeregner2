@@ -17,12 +17,13 @@ namespace LommeregnerBibliotek
             StreamWriter logFil = File.CreateText("lommeregnerlog.json");
             logFil.AutoFlush = true;
             writer = new JsonTextWriter(logFil);
+            //Aktiverer indent på child objekter
             writer.Formatting = Formatting.Indented;
-            //Skriver starten på et JSON object
+            //Skriver starten på et JSON object ( { )
             writer.WriteStartObject();
-            //Skriver property navnet
+            //Skriver en property med navnet 'Operationer'
             writer.WritePropertyName("Operationer");
-            //Skriver begyndelsen på et JSON array
+            //Skriver begyndelsen på et JSON array ( [ )
             writer.WriteStartArray();
 
         }
@@ -32,50 +33,50 @@ namespace LommeregnerBibliotek
         {
             //Sættes default som Not a Number i tilfælde af brugeren indtaster noget "ulovligt"
             double result = double.NaN;
-            //Skriver starten på et JSON objekt
+            //Skriver starten på et JSON objekt ( { )
             writer.WriteStartObject();
-            //Skriver operand1
+            //Skriver en property med navnet operand1
             writer.WritePropertyName("Operand1");
-            //Skriver tal 1
+            //Skriver værdien af variablen num1
             writer.WriteValue(num1);
-            //Skriver operand2
+            //Skriver en property med navnet operand2
             writer.WritePropertyName("Operand2");
-            //Skriver tal 2
+            //Skriver værdien af variablen num2
             writer.WriteValue(num2);
-            //Skriver operator
+            //Skriver en property med navnet 'Operator'
             writer.WritePropertyName("Operator");
             switch (op)
             {
                 case "p":
                     result = num1 + num2;
-                    //Skriver plus
+                    //Skriver plus som value
                     writer.WriteValue("Plus");
                     break;
                 case "m":
                     result = num1 - num2;
-                    //Skriver minus
+                    //Skriver minus som value
                     writer.WriteValue("Minus");
                     break;
                 case "g":
                     result = num1 * num2;
-                    //Skriver gange
+                    //Skriver gange som value
                     writer.WriteValue("Gange"); break;
                 case "d":
                     if (num2 != 0)
                     {
                         result = num1 / num2;
-                        //Skriver division
+                        //Skriver division som value
                         writer.WriteValue("Division");
                     }
                     break;
                 default:
                     break;
             }
-            //Skriver resultat
+            //Skriver resultat som property navn
             writer.WritePropertyName("Resultat");
-            //Skriver værdien af resultat
+            //Skriver værdien af resultat som value
             writer.WriteValue(result);
-            //Lukker JSON objektet
+            //Lukker JSON objektet ( } )
             writer.WriteEndObject();
             return result;
         }

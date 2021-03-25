@@ -1,22 +1,10 @@
 {
   "Operationer": [
     {
-      "Operand1": 12.0,
-      "Operand2": 40.0,
-      "Operator": "Minus",
-      "Resultat": -28.0
-    },
-    {
-      "Operand1": 40.0,
-      "Operand2": 400.0,
-      "Operator": "Division",
-      "Resultat": 0.1
-    },
-    {
-      "Operand1": 40.0,
+      "Operand1": 20.0,
       "Operand2": 30.0,
-      "Operator": "Minus",
-      "Resultat": 10.0
+      "Operator": "Plus",
+      "Resultat": 50.0
     }
   ]
 }
