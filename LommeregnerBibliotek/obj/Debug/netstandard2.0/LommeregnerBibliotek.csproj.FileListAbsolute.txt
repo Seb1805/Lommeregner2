@@ -1,0 +1,9 @@
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\bin\Debug\netstandard2.0\LommeregnerBibliotek.deps.json
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\bin\Debug\netstandard2.0\LommeregnerBibliotek.dll
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\obj\Debug\netstandard2.0\LommeregnerBibliotek.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\obj\Debug\netstandard2.0\LommeregnerBibliotek.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\obj\Debug\netstandard2.0\LommeregnerBibliotek.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\bin\Debug\netstandard2.0\LommeregnerBibliotek.pdb
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\obj\Debug\netstandard2.0\LommeregnerBibliotek.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\obj\Debug\netstandard2.0\LommeregnerBibliotek.dll
+C:\Users\sebas\source\repos\Lommeregner2\LommeregnerBibliotek\obj\Debug\netstandard2.0\LommeregnerBibliotek.pdb

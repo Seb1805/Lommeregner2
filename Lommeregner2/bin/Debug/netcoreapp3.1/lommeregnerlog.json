@@ -1,0 +1,16 @@
+{
+  "Operationer": [
+    {
+      "Operand1": 12.0,
+      "Operand2": 40.0,
+      "Operator": "Division",
+      "Resultat": 0.3
+    },
+    {
+      "Operand1": 40.0,
+      "Operand2": 10.0,
+      "Operator": "Plus",
+      "Resultat": 50.0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgzjgQo944nFhVz5Td17Otweuau7bhsvz5CbJqMwChRyZiWHIDuu8GYsnQ+KxHStbxNxh4Dl9c2z9JJF90WxrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\source\\repos\\Lommeregner2\\LommeregnerBibliotek\\LommeregnerBibliotek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

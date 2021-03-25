@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUYhJzuf2DcU0lp70FOkr1O1iC3aGwSy/8SgPpcDa5Q/P/d6IV4RVL3wJrLBQNvXkjCkdfPqTlrqkQ1qB9t2Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\source\\repos\\Lommeregner2\\Lommeregner2\\Lommeregner2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

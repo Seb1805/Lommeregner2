@@ -1,0 +1,17 @@
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\Lommeregner2.exe
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\Lommeregner2.deps.json
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\Lommeregner2.runtimeconfig.json
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\Lommeregner2.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\Lommeregner2.dll
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\Lommeregner2.pdb
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\LommeregnerBibliotek.dll
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\bin\Debug\netcoreapp3.1\LommeregnerBibliotek.pdb
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.csproj.CopyComplete
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.dll
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.pdb
+C:\Users\sebas\source\repos\Lommeregner2\Lommeregner2\obj\Debug\netcoreapp3.1\Lommeregner2.genruntimeconfig.cache
